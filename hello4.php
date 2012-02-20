@@ -6,4 +6,5 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  echo 'hello4';
+ echo 'changed on the server';
 ?>
